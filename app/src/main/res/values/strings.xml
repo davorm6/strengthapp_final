@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StrengthApp</string>
+    <string name="register_name_input">Name</string>
+    <string name="register_surname_input">Surname</string>
+    <string name="register_mail_input">E-mail</string>
+    <string name="register_password_input">Password</string>
+    <string name="register_r_password_input">Repeat password</string>
+    <string name="register_register">REGISTER</string>
+    <string name="register_as_trainer_register">REGISTER AS TRAINER</string>
+    <string name="title_activity_home2">HomeActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_exercise_list">ExerciseListActivity</string>
+    <string name="title_activity_trainer_profile">TrainerProfileActivity</string>
+</resources>

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.strengthapp.TrainerProfileActivity">
+    <item android:id="@+id/action_trainer"
+          android:title="Trainer"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:title="Notifications" android:id="@+id/action_notif"/>
+</menu>
